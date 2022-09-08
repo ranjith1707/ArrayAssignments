@@ -1,5 +1,5 @@
 import java.util.*;
-public class StringPatten {
+public class StringPatten{
     public static void main(String[] args){
 Scanner input=new Scanner(System.in);
 String str=input.next();
